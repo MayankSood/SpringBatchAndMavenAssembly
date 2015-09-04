@@ -8,6 +8,7 @@ target
 .idea
 *.iml
 gwt-unitCache/
+csv/
 widgetsets/
 *.log
 *.cdr
